@@ -5,5 +5,5 @@
 
 ## YouTube 
 
-[https://youtu.be/yXucoMppdhI?si=_gynv7wZvJoh3ii8](https://youtu.be/yXucoMppdhI?si=_gynv7wZvJoh3ii8)
+[https://youtu.be/yXucoMppdhI](https://youtu.be/yXucoMppdhI)
 
