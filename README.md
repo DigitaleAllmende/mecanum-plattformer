@@ -1,11 +1,9 @@
 
-> Diese Seite bei [https://digitaleallmende.github.io/mecanum-plattformer/](https://digitaleallmende.github.io/mecanum-plattformer/) öffnen
+## GitHub
 
-## Dieses Projekt bearbeiten
+[https://digitaleallmende.github.io/mecanum-plattformer/](https://digitaleallmende.github.io/mecanum-plattformer/)
 
-Um dieses Repository in MakeCode zu bearbeiten.
+## YouTube 
 
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/digitaleallmende/mecanum-plattformer** ein und klicke auf Importieren
+[https://youtu.be/yXucoMppdhI?si=_gynv7wZvJoh3ii8](https://youtu.be/yXucoMppdhI?si=_gynv7wZvJoh3ii8)
 
